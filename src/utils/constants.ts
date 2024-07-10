@@ -3,7 +3,7 @@ interface Line {
   withTerminal?: boolean;
 }
 export const LINES: Line[] = [
-  { text: "chmod +x ./goodbye.sh^1500", withTerminal: true },
+  { text: "^500chmod +x ./goodbye.sh^1500", withTerminal: true },
   { text: "./goodbye.sh^2000", withTerminal: true },
   {
     text: `Bueno, como algunos sabrán esta es mi última semana en <i>Aerolab</i> 🥺`,
