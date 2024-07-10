@@ -9,19 +9,24 @@ export const LINES: Line[] = [
     text: `Bueno, como algunos sabrán esta es mi última semana en <i>Aerolab</i> 🥺`,
   },
   {
-    text: "Fueron casi 3 años que me cambiaron totalmente. ",
+    text: "Jamás me imaginé que al responder ese mensaje de LinkedIn allá por Octubre 2021 me hubiera llevado a todo esto. Conocí personas hermosas que no cambiaría por nada.<br>Personas que me ayudaron a crecer tanto profesional como personalmente.",
   },
   {
-    text: "Jamás me imaginé que al responder ese mensaje de LinkedIn allá por Octubre 2021 me hubiera llevado a todoe esto. Conocí personas hermosas que no cambiaría por nada que me ayudaron a crecer tanto profesional como personalmente.",
-  },
-  { text: "Me llevo grandes amigos y experiencias." },
-  {
-    text: "Siempre me hicieron sentir bienvenido, parte de algo más que un lugar de trabajo. Me apoyaron cuando más lo necesité",
+    text: "Fueron casi 3 años que cambiaron totalmente para bien la forma en la que trabajo y la pasión que tengo por lo que hago. Y todo es gracias a ustedes.",
   },
   {
-    text: "Los voy a extrañar muchísimo a todos, espero que sigamos encontrándonos por ahí.",
+    text: "Me llevo grandes amigos y experiencias, aprendizajes y conocimientos. Cosas que me voy a llevar a donde quiera que vaya.",
   },
   {
-    text: "Nunca dejen de ser la hermosa familia que son! :puñito:",
+    text: "Siempre me hicieron sentir bienvenido, como en casa, parte de algo más que un lugar de trabajo.",
+  },
+  {
+    text: "Los voy a extrañar muchísimo a todos, espero que sigamos encontrándonos por ahí en eventos, charlas y lo que sea que sirva de excusa para volver a vernos.",
+  },
+  {
+    text: "Sigan shipeando y rompiéndola como siempre. Nunca dejen de ser la hermosa familia que son! :puñito:",
+  },
+  {
+    text: "<br><br>Un abrazo enorme,<br>Luciano.",
   },
 ];
