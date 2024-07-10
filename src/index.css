@@ -18,6 +18,7 @@ body {
   src: url("./assets/fonts/IBMPlexMono-BoldItalic.ttf");
   font-style: italic;
   font-weight: 700;
+  font-display: swap;
 }
 
 @font-face {
