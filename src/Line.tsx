@@ -18,7 +18,7 @@ export const Line = ({ text, onComplete, withTerminal = false }: Props) => {
   useEffect(() => {
     const typed = new Typed(el.current, {
       strings: [text],
-      typeSpeed: 50,
+      typeSpeed: 30,
       onComplete() {
         el.current?.classList.add("completed");
         onComplete?.();
