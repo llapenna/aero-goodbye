@@ -9,7 +9,7 @@ body {
   font-family: IBM-Mono, monospace;
   color: #e0e0e0;
 
-  height: 100vh;
+  min-height: 100vh;
   width: 50vw;
 }
 
