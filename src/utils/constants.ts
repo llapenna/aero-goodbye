@@ -24,7 +24,7 @@ export const LINES: Line[] = [
     text: "Los voy a extrañar muchísimo a todos, espero que sigamos encontrándonos por ahí en eventos, charlas y lo que sea que sirva de excusa para volver a vernos.",
   },
   {
-    text: "Sigan shipeando y rompiéndola como siempre. Nunca dejen de ser la hermosa familia que son! :puñito:",
+    text: "Sigan shipeando y rompiéndola como siempre. Nunca dejen de ser la hermosa familia que son!",
   },
   {
     text: "<br><br>Un abrazo enorme,<br>Luciano.",
