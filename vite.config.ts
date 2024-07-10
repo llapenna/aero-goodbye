@@ -8,4 +8,8 @@ export default defineConfig({
     host: true,
     port: 5000,
   },
+  preview: {
+    host: true,
+    port: 5000,
+  },
 });
