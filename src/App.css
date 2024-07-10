@@ -1,0 +1,24 @@
+.terminal {
+  font-weight: 700;
+  font-style: italic;
+  color: #ff8ffd;
+
+  margin-right: 8px;
+}
+
+.line {
+  /* display: flex;
+  flex-direction: row;
+  gap: 8px; */
+
+  & span {
+    line-height: 130%;
+  }
+
+  &.with-terminal span {
+    line-height: 50%;
+  }
+}
+.line-content.completed + .typed-cursor {
+  display: none;
+}
