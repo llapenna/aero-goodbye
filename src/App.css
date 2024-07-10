@@ -7,10 +7,6 @@
 }
 
 .line {
-  /* display: flex;
-  flex-direction: row;
-  gap: 8px; */
-
   & span {
     line-height: 130%;
   }
